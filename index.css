@@ -1,0 +1,55 @@
+
+* {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+}
+
+
+
+body {
+  background-color: white;
+}
+
+
+body {
+  background-color: white;
+}
+.info
+{
+margin-left: 140px;
+}
+.background {
+  <img src="images/jess.jpg" >
+}
+h1 {
+  font-size: 30px;
+}
+p{
+  font-size: 18px;
+}
+.leftSide {
+  outline: 1px solid red;
+  display: inline-block;
+  width: 50%;
+  float: left;
+  height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.leftsideContent {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+.rightSide {
+  outline: 1px solid black;
+  display: inline-block;
+  width: 50%;
+  /* float: right; */
+  height: 100vh;
+  background-image: url("images/jess.jpg");
+  background-size: cover;
+  background-repeat: no-repeat
+
+}
